@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://instagram.com/__light__seeker__3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/919778383987"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/918086725570"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change Lord-official to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD
+  https://heroku.com/deploy?template=https://github.com/kuttuyt/LoRD-MD
 ```
 <br>
 
